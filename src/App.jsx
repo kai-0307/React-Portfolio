@@ -15,7 +15,7 @@ function App() {
           <a href='#about' className="mr-5 hover:text-violet-600 duration-300">About</a>
           <a href='#skills' className="mr-5 hover:text-violet-600 duration-300">Skills</a>
           <a href='#works' className="mr-5 hover:text-violet-600 duration-300">Works</a>
-          <a href='#contact' className="hover:text-violet-600 duration-300">Contact</a>
+          <a href="https://github.com/kai-0307" className="hover:text-violet-600 duration-300">GitHub</a>
         </nav>
       </div>
     </header>
@@ -28,7 +28,7 @@ function App() {
             <br/>I'm a member of <a className="contact-item hover:text-violet-600 duration-300" href="https://doer.vercel.app" target="_blank" rel="noopener">Do'er</a>.
           </h1>
           <button className="text-white bg-violet-600 border-0 py-2 px-6 focus:outline-none hover:bg-violet-600 rounded text-lg duration-800">
-            Contact
+            <a className="" href="https://twitter.com/midnightsun0307" target="_blank" rel="noopener">Twitter</a>
           </button>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -218,18 +218,18 @@ function App() {
                 <div className="shadow w-full bg-violet-100 mt-2">
                   <div
                     className="bg-violet-600 text-xs leading-none py-1 text-center text-white"
-                    style={{ width: "85%" }}
+                    style={{ width: "65%" }}
                   >
-                    85%
+                    65%
                   </div>
                 </div>
-                <h2 className="pt-5">JavaScript/React/Next.js</h2>
+                <h2 className="pt-5">React / Next.js</h2>
                 <div className="shadow w-full bg-violet-100 mt-2">
                   <div
                     className="bg-violet-600 text-xs leading-none py-1 text-center text-white"
-                    style={{ width: "80%" }}
+                    style={{ width: "60%" }}
                   >
-                    80%
+                    60%
                   </div>
                 </div>
                 <h2 className="pt-5">Rust</h2>
@@ -245,9 +245,9 @@ function App() {
                 <div className="shadow w-full bg-violet-100 mt-2">
                   <div
                     className="bg-violet-600 text-xs leading-none py-1 text-center text-white"
-                    style={{ width: "50%" }}
+                    style={{ width: "40%" }}
                   >
-                    50%
+                    40%
                   </div>
                 </div>
                 <h2 className="pt-5">PHP</h2>
