@@ -232,6 +232,15 @@ function App() {
                     80%
                   </div>
                 </div>
+                <h2 className="pt-5">Rust</h2>
+                <div className="shadow w-full bg-violet-100 mt-2">
+                  <div
+                    className="bg-violet-600 text-xs leading-none py-1 text-center text-white"
+                    style={{ width: "40%" }}
+                  >
+                    40%
+                  </div>
+                </div>
                 <h2 className="pt-5">Python</h2>
                 <div className="shadow w-full bg-violet-100 mt-2">
                   <div
@@ -241,13 +250,13 @@ function App() {
                     50%
                   </div>
                 </div>
-                <h2 className="pt-5">PHP/Laravel</h2>
+                <h2 className="pt-5">PHP</h2>
                 <div className="shadow w-full bg-violet-100 mt-2">
                   <div
                     className="bg-violet-600 text-xs leading-none py-1 text-center text-white"
-                    style={{ width: "50%" }}
+                    style={{ width: "30%" }}
                   >
-                    50%
+                    30%
                   </div>
                 </div>
               </div>
